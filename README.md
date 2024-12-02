@@ -21,4 +21,4 @@ educational opportunities for organizations to grow as a professional.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-sayad&show_icons=true&locale=en&layout=compact" alt="ahmed-sayad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-sayad&" alt="ahmed-sayad" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-sayad" alt="ahmed-sayad" /></p>
