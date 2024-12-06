@@ -12,7 +12,7 @@
 <div>
     <img margin="20" src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C%20Language-blue?style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=sqlserver&style=for-the-badge&logoColor=white"/>
