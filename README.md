@@ -8,7 +8,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
 <div>
     <img margin="20" src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C%20Language-blue?style=for-the-badge&logo=c&logoColor=white"/>
@@ -25,18 +24,15 @@
     <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
     <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
 </div>
-
 </p>
 
-
 <p align="center"  >
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=ahmed-sayad&theme=matrix&margin-h=15&column=4&margin-w=10" alt="oskarmast" /></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-sayad&theme=matrix&margin-h=15&column=4&margin-w=10" alt="oskarmast" /></a>
 </p>
 
 <table>
-  <tr>
+    <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=ahmed-sayad&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-sayad&theme=blue-green" alt="pratikgarai" /></td>
-   </tr>
+    </tr>
 </table>
