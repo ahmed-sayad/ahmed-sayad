@@ -3,7 +3,7 @@
 <h3 align="center" color=red> Software Developer </h3>
 
 - 🔭 I’m currently working on the backend spring framework.
-- 🎓 Menofia university, faculty of computer science.
+- 🎓 Menofia university, school of computer science.
 - 💬 Ask me about java core, c++, maven, servlets, jsp, RDBMS, ORM, spring core, AOP, spring data and spring security.
 
 <h3 align="left">Languages and Tools:</h3>
