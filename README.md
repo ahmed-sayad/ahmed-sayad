@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elsayad</h1>
 
-<h3 align="center" color=red> Software Developer </h3>
+<h3 align="center" color=red> Junior Software Developer </h3>
 
-- 🔭 I’m currently working on the backend spring framework.
+- 🔭 I’m currently working on the backend JAVA frameworks.
 - 🎓 Menofia university, school of computer science.
 - 💬 Ask me about java core, c++, maven, servlets, jsp, RDBMS, ORM, spring core, AOP, spring data and spring security.
 
