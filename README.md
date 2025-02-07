@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on the backend JAVA frameworks.
 - 🎓 Menofia university, school of computer science.
-- 💬 Ask me about java core, c++, maven, servlets, jsp, RDBMS, ORM, spring core, AOP, spring data and spring security.
+- 💬 Ask me about java core, c++, maven, servlets, jsp, RDBMS, ORM, spring core, AOP, spring boot and spring security.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
