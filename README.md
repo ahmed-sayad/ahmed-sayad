@@ -1,38 +1,28 @@
-<h1 align="center">Hi 👋, I'm Ahmed Elsayad</h1>
-
-<h3 align="center" color=red> Junior Software Developer </h3>
-
-- 🔭 I’m currently working on the backend JAVA frameworks.
-- 🎓 Menofia university, school of computer science.
-- 💬 Ask me about java core, c++, maven, servlets, jsp, RDBMS, ORM, spring core, AOP, spring boot and spring security.
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<div>
-    <img margin="20" src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-C%20Language-blue?style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=sqlserver&style=for-the-badge&logoColor=white"/>
-    <img src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=blue"/>
-    <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
-</div>
+<h2> Hi there, I'm Ahmed Elsayad! 👋</h2>
+<img align='right' src="https://raw.githubusercontent.com/selimdoyranli/selimdoyranli/master/preview.gif" width="230">
+<p>Junior Software Engineer<img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30"></br>Java Spring Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
 
-<p align="center"  >
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-sayad&theme=matrix&margin-h=15&column=4&margin-w=10" alt="oskarmast" /></a>
-</p>
+[![Twitter URL](https://img.shields.io/static/v1?color=blue&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/ahmed_sayadd)
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ahmed-sayad)
+[![HackerRa URL](https://img.shields.io/static/v1?color=blue&label=HackerRank&logo=HackerRank&logoColor=white&style=for-the-badge&message=Connect)](https://www.hackerrank.com/ahmed_sayad)
 
-<table>
-    <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ahmed-sayad&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-sayad&theme=blue-green" alt="pratikgarai" /></td>
-    </tr>
-</table>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+* Highly driven and results-focused software developer with a robust foundation in computer science principles and extensive hands-on expertise in backend development using Java SE, Jakarta EE, and Spring technologies. I specialize in designing and implementing scalable, maintainable, and high-performance systems, ensuring every layer of the projects I work on is decoupled, modular, and adheres to industry best practices. My commitment to clean architecture and design patterns has consistently delivered efficient, reliable, and future-proof solutions.
+
+* I hold a Bachelor’s degree in Computer Science from Menofia University, where I cultivated a deep understanding of algorithms, data structures, and software engineering methodologies. Passionate about tackling complex technical challenges, I thrive on crafting innovative, elegant solutions that drive business value and enhance user experiences. My ability to bridge theoretical knowledge with practical application has enabled me to deliver projects that exceed expectations.
+
+I love sharing my knowledge and experience, contribute to open source projects related to Java and Spring FW, and sharing PoCs & problems as code.
+
+- 🎯 **I’m currently focusing on**: Backend developing by JAVA and it's frameworks.
+
+- 💬 **Ask me about**: OOP, Java SE, Jakarta EE, Spring, Maven, Servlets, JSP, ORM, AOP, Hibernate, RESTful APIs, Architecture, Design Patterns, Unit Testing, and Spring Security.
+
+- 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
+
+<hr/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
+
+⭐️ Thank you ⭐️
