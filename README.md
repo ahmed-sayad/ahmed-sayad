@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Ahmed Elsayad! 👋</h2>
 <img align='right' src="https://raw.githubusercontent.com/selimdoyranli/selimdoyranli/master/preview.gif" width="230">
-<p>Junior Software Engineer<img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30"></br>Java Spring Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>Junior Software Engineer<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWllb3JvYXVmcGxkamZ3dHFwbm9vYnRndnJ3cXBpNDltcXkwcjkxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="30"></br>Java Spring Developer <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFhYTViN3gyNGFyMXo2dHF6NG1uNHN0cmt3NnQwb20wY3l3a2k3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5qZEZ0rTln9581K7Q5/giphy.gif" width="30"> 
 </p>
 
 [![Twitter URL](https://img.shields.io/static/v1?color=blue&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/ahmed_sayadd)
