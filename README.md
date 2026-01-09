@@ -14,7 +14,7 @@ Hi, I am [@Ahmed Elsayad](https://github.com/ahmed-sayad) 👋
 * Highly motivated and results-oriented Data Engineer with hands-on expertise in building, optimizing, and maintaining data pipelines and architectures. I specialize in designing scalable, maintainable, and high-performance data systems using modern tools and frameworks, ensuring data reliability, quality, and accessibility. My commitment to best practices in ETL, data modeling, and distributed computing enables me to deliver robust, future-proof solutions.
 
 
-I enjoy sharing knowledge, contributing to open-source data projects, and developing proofs-of-concept for data engineering challenges.
+* I enjoy sharing knowledge, contributing to open-source data projects, and developing proofs-of-concept for data engineering challenges.
 
 - **I’m currently focusing on**: Data Engineering, Big Data frameworks, and cloud-based data platforms.
 
