@@ -1,8 +1,6 @@
 # About Me
 
-<a href="https://leetcode.com/ahmed_sayad" target="_blank">
-  <img src="https://img.shields.io/static/v1?color=blue&label=LeetCode%20&logo=leetcode&logoColor=white&style=for-the-badge&message=Follow" alt="LeetCode URL"/>
-</a>
+[![LeetCode URL](https://img.shields.io/static/v1?color=blue&label=LeetCode%20&logo=leetcode&logoColor=white&style=for-the-badge&message=Follow)](https://leetcode.com/ahmed_sayad)
 [![HackerRank URL](https://img.shields.io/static/v1?color=blue&label=HackerRank&logo=HackerRank&logoColor=white&style=for-the-badge&message=Connect)](https://www.hackerrank.com/ahmed_sayad)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ahmed-sayad)
 
