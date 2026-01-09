@@ -1,26 +1,25 @@
 # About Me
 
-[![Twitter URL](https://img.shields.io/static/v1?color=blue&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/ahmed_sayadd)
+[![LeetCode URL](https://img.shields.io/static/v1?color=blue&label=LeetCode%20&logo=leetcode&logoColor=white&style=for-the-badge&message=Follow)](https://leetcode.com/ahmed_sayad)
+[![HackerRank URL](https://img.shields.io/static/v1?color=blue&label=HackerRank&logo=HackerRank&logoColor=white&style=for-the-badge&message=Connect)](https://www.hackerrank.com/ahmed_sayad)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ahmed-sayad)
-[![HackerRa URL](https://img.shields.io/static/v1?color=blue&label=HackerRank&logo=HackerRank&logoColor=white&style=for-the-badge&message=Connect)](https://www.hackerrank.com/ahmed_sayad)
 
 
 Hi, I am [@Ahmed Elsayad](https://github.com/ahmed-sayad) 👋
 
 ### A little more about me...  
 
-* I hold a Bachelor’s degree in Computer Science, where I cultivated a deep understanding of algorithms, data structures, and software engineering methodologies. Passionate about tackling complex technical challenges, I thrive on crafting innovative, elegant solutions that drive business value and enhance user experiences. My ability to bridge theoretical knowledge with practical application has enabled me to deliver projects that exceed expectations.
+* I hold a Bachelor’s degree in Computer Science, where I developed a strong foundation in algorithms, data structures, and software engineering principles. I’m passionate about solving complex data challenges, designing efficient pipelines, and delivering data-driven solutions that create tangible business impact. My ability to translate theoretical concepts into practical, scalable solutions has allowed me to deliver projects that exceed expectations.
 
-* Highly driven and results-focused software developer with a robust foundation in computer science principles and extensive hands-on expertise in backend development using Java SE, Jakarta EE, and Spring technologies. I specialize in designing and implementing scalable, maintainable, and high-performance systems, ensuring every layer of the projects I work on is decoupled, modular, and adheres to industry best practices. My commitment to clean architecture and design patterns has consistently delivered efficient, reliable, and future-proof solutions.
+* Highly motivated and results-oriented Data Engineer with hands-on expertise in building, optimizing, and maintaining data pipelines and architectures. I specialize in designing scalable, maintainable, and high-performance data systems using modern tools and frameworks, ensuring data reliability, quality, and accessibility. My commitment to best practices in ETL, data modeling, and distributed computing enables me to deliver robust, future-proof solutions.
 
 
+I enjoy sharing knowledge, contributing to open-source data projects, and developing proofs-of-concept for data engineering challenges.
 
-I love sharing my knowledge and experience, contribute to open source projects related to Java and Spring FW, and sharing PoCs & problems as code.
+- **I’m currently focusing on**: Data Engineering, Big Data frameworks, and cloud-based data platforms.
 
-- **I’m currently focusing on**: JAVA Backend development, Data Engineering, and its frameworks.
-
-- **Ask me about**: OOP, Java SE, Jakarta EE, Maven, Servlets, JSP, ORM, AOP, Hibernate, RESTful APIs, Architecture, Design Patterns, Unit Testing, Docker, CI/CD, MapReduce, Spark, Pyspark, Kafka, YARN, Hadoop, Jenkins and Hive.
+- **Ask me about**: ETL pipelines, Data Warehousing, SQL & NoSQL databases, Apache Spark, PySpark, Hadoop, MapReduce, Kafka, Hive, Airflow, YARN, Jenkins, Docker, CI/CD, data modeling, and performance tuning.
 
 <hr/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em>I love connecting with different people, so if you want to say hi, I'll be happy to meet you more! :)</em>
